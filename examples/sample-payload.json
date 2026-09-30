@@ -1,0 +1,62 @@
+{
+  "components": [
+    {
+      "type": 17,
+      "components": [
+        {
+          "type": 9,
+          "components": [
+            {
+              "type": 10,
+              "content": "**Arkiental** ([@Arkiental](https://x.com/Arkiental))\n\nG-SHOCK recreated in Blender with GPT-6.1 Sol, with OpenAI dots managing the revisions and renders. Dark lighting, strong rim light, and a film-grain finish.\n\n\\#Blender \\#OpenAI \\#GPT \\#Dots"
+            }
+          ],
+          "accessory": {
+            "type": 11,
+            "media": {
+              "url": "https://pbs.twimg.com/profile_images/2102498280038924289/NYQEZVtA_200x200.jpg"
+            },
+            "description": "Arkiental's profile image"
+          }
+        },
+        {
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://pbs.twimg.com/media/HTdFKzbWIAAgsux.jpg?name=orig"
+              },
+              "description": "Media from @Arkiental",
+              "spoiler": false
+            },
+            {
+              "media": {
+                "url": "https://pbs.twimg.com/media/HTdFK_0WkAAlCbw.jpg?name=orig"
+              },
+              "description": "Media from @Arkiental",
+              "spoiler": false
+            }
+          ]
+        },
+        {
+          "type": 14,
+          "divider": true,
+          "spacing": 1
+        },
+        {
+          "type": 10,
+          "content": "💬 0  🔁 0  ❤️ 0"
+        },
+        {
+          "type": 10,
+          "content": "-# [𝕏](https://x.com/Arkiental/status/2105227461642379749) • <t:1790760314:R>"
+        }
+      ]
+    }
+  ],
+  "flags": 32768,
+  "allowedMentions": {
+    "parse": [],
+    "repliedUser": false
+  }
+}
